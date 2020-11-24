@@ -1,0 +1,14 @@
+_id: env_env_156f45b424bee9dd61d727aa837a115485744e25_sub
+type: Environment
+parentId: env_156f45b424bee9dd61d727aa837a115485744e25
+modified: 1606100037604
+created: 1606093176498
+name: OpenAPI env
+data:
+  scheme: https
+  base_path: ""
+  host: warm-shore-85713.herokuapp.com
+dataPropertyOrder: null
+color: null
+isPrivate: false
+metaSortKey: 1606093176498

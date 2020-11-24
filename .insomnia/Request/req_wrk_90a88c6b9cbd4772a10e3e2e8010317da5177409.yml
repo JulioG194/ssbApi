@@ -1,0 +1,36 @@
+_id: req_wrk_90a88c6b9cbd4772a10e3e2e8010317da5177409
+type: Request
+parentId: wrk_90a88c6b9cbd4772a10e3e2e8010317d
+modified: 1606100037596
+created: 1606098901739
+url: "{{ base_url }}/characters"
+name: /characters
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "name": "string",
+      "game": "string",
+      "gender": "string",
+      "kind": "string",
+      "createdBy": "string",
+      "skills": [
+        null
+      ],
+      "description": "string"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1606098901739
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

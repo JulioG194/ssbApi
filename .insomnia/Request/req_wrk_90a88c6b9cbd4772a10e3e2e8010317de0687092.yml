@@ -1,0 +1,21 @@
+_id: req_wrk_90a88c6b9cbd4772a10e3e2e8010317de0687092
+type: Request
+parentId: wrk_90a88c6b9cbd4772a10e3e2e8010317d
+modified: 1606100037588
+created: 1606098901733
+url: "{{ base_url }}/characters/{{ id }}"
+name: /characters/{id}
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1606098901733
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

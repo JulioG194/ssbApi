@@ -1,0 +1,27 @@
+_id: req_wrk_90a88c6b9cbd4772a10e3e2e8010317da5821ec1
+type: Request
+parentId: wrk_90a88c6b9cbd4772a10e3e2e8010317d
+modified: 1606100037599
+created: 1606098901741
+url: "{{ base_url }}/characters"
+name: /characters
+description: ""
+method: GET
+body: {}
+parameters:
+  - name: tags
+    disabled: true
+    value: string
+  - name: limit
+    disabled: true
+    value: "0"
+headers: []
+authentication: {}
+metaSortKey: -1606098901741
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
